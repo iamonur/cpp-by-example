@@ -3,7 +3,7 @@ C++ features and such
 
 # TODO
 - \<any>
-- auto
+- ~~auto~~
 - RAII
 - Diamond Problem
 - Virtual Destructors
